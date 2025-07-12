@@ -1,0 +1,82 @@
+.container {
+  background-color: 	#f4f4f4;
+  border-radius: 16px;
+  width: 75%;
+  margin: 20px auto;
+}
+
+body {
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 3rem;
+}
+
+header p {
+  font-size: 1.2rem;
+}
+
+.img-div {
+  text-align: center;
+  padding-top: 20px
+}
+
+figcaption {
+  padding-top: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.timeline {
+  text-align: center;
+  padding: 0;
+}
+
+.tribute-info {
+  text-align: center;
+  font-size: 17px;
+  padding-bottom: 20px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.uL {
+  display: inline-block;
+  text-align: left;
+}
+
+li {
+  padding-top: 20px;
+}
+
+.qoutes {
+  color: #1b1f3b; 
+
+  padding: 20px;
+  max-width: 600px;
+  margin: 40px auto;
+  font-style: italic;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+hr {
+  width: 95%;
+}
